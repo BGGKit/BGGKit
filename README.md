@@ -1,0 +1,2 @@
+# BGGKit
+Boardgamegeek API wrapper
